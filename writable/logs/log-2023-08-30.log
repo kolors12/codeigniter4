@@ -1,0 +1,1906 @@
+INFO - 2023-08-30 03:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:56:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:57:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 03:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:23:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:27:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:33:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 04:33:38 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:39 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:40 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:40 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:40 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:40 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:41 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:41 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:33:41 --> Call to undefined method App\Models\ImportExcelModel::delete_products_by_ids
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\ImportExcelController.php(88): CodeIgniter\Model->__call('delete_products_by_ids', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ImportExcelController->delete_products()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ImportExcelController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 04:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:40:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 04:44:41 --> Undefined variable $product_list
+in APPPATH\Views\Admin\multidelete.php on line 20.
+ 1 APPPATH\Views\Admin\multidelete.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product_list', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 20)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(9): view('Admin/multidelete')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 04:51:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:51:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 04:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 04:51:45 --> Call to undefined method App\Models\ProductModel::get_product_list
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\MultiDeleteController.php(12): CodeIgniter\Model->__call('get_product_list', [])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:52:42 --> Call to undefined method App\Models\ProductModel::get_product_list
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\MultiDeleteController.php(12): CodeIgniter\Model->__call('get_product_list', [])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:53:34 --> Undefined variable $product_list
+in APPPATH\Views\Admin\multidelete.php on line 20.
+ 1 APPPATH\Views\Admin\multidelete.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product_list', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 20)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:54:01 --> Attempt to read property "id" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:54:21 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:55:00 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:56:14 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:57:02 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:18 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:19 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:19 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:33 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 43.
+ 1 APPPATH\Views\Admin\multidelete.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:36 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 43.
+ 1 APPPATH\Views\Admin\multidelete.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:36 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 43.
+ 1 APPPATH\Views\Admin\multidelete.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:58:46 --> Attempt to read property "productname" on array
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "productname" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:59:18 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 04:59:50 --> Attempt to read property "guid" on array
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "guid" on array', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 05:04:47 --> Class "App\Models\ProductsModel" not found
+in APPPATH\Controllers\MultiDeleteController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 05:08:05 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `pr...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `pr...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `pr...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pr...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 05:08:05 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `product`
+WHERE `id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `product`
+WHERE `id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `product`
+WHERE `id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `product`
+WHERE `id` IN :id:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 05:09:17 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `pr...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `pr...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `pr...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pr...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 05:09:17 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `product`
+WHERE `id` IN (\'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `product`
+WHERE `id` IN (\'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `product`
+WHERE `id` IN (\'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `product`
+WHERE `id` IN :id:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 05:09:22 --> mysqli_sql_exception: Unknown column 'id' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `pr...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `pr...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `pr...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `pr...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 05:09:22 --> Unknown column 'id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `product`
+WHERE `id` IN (\'1\',\'3\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `product`
+WHERE `id` IN (\'1\',\'3\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `product`
+WHERE `id` IN (\'1\',\'3\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `product`
+WHERE `id` IN :id:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 08:48:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:48:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:49:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 08:50:01 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:52:24 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:52:25 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:52:25 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:52:37 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:53:17 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:53:18 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:54:36 --> Undefined property: stdClass::$id
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:55:08 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:55:09 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:55:09 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:55:28 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:55:28 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:09 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:09 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:10 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:10 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:13 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:14 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:14 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:14 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:20 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:46 --> Undefined property: stdClass::$guid
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$guid', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:47 --> Undefined property: stdClass::$guid
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$guid', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:47 --> Undefined property: stdClass::$guid
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$guid', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:56:47 --> Undefined property: stdClass::$guid
+in APPPATH\Views\Admin\multidelete.php on line 42.
+ 1 APPPATH\Views\Admin\multidelete.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$guid', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 08:57:04 --> Undefined property: stdClass::$productname
+in APPPATH\Views\Admin\multidelete.php on line 44.
+ 1 APPPATH\Views\Admin\multidelete.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$productname', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 44)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 08:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:58:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 08:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:00:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:00:00 --> Undefined variable $products
+in APPPATH\Views\Admin\multidelete.php on line 129.
+ 1 APPPATH\Views\Admin\multidelete.php(129): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $products', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 129)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:03:14 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 138.
+ 1 APPPATH\Views\Admin\multidelete.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 138)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:03:19 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 138.
+ 1 APPPATH\Views\Admin\multidelete.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 138)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:03:20 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 138.
+ 1 APPPATH\Views\Admin\multidelete.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 138)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:03:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:03:20 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 138.
+ 1 APPPATH\Views\Admin\multidelete.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 138)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:03:24 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 138.
+ 1 APPPATH\Views\Admin\multidelete.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 138)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:04:19 --> Undefined variable $row
+in APPPATH\Views\Admin\multidelete.php on line 147.
+ 1 APPPATH\Views\Admin\multidelete.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 147)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:04:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:05:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:06:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-08-30 09:06:41 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:41 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 09:06:42 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:42 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\',\'63\',\'64\',\'65\',\'66\',\'67\',\'68\',\'69\',\'70\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 09:06:46 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:47 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 09:06:47 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:47 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-30 09:06:47 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:47 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-08-30 09:06:53 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\app\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\app\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids(Array)
+#6 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-30 09:06:53 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'61\',\'62\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 APPPATH\Models\ProductsModel.php(17): CodeIgniter\Database\BaseBuilder->delete()
+ 6 APPPATH\Controllers\MultiDeleteController.php(24): App\Models\ProductsModel->delete_products_by_ids([...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete_products()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:10:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:11:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:12:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:12:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:15:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:18:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:18:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:23:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:24:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:40:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:40:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:41:31 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 139.
+ 1 APPPATH\Views\Admin\multidelete.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 139)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:41:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:41:57 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 139.
+ 1 APPPATH\Views\Admin\multidelete.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 139)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:42:22 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 139.
+ 1 APPPATH\Views\Admin\multidelete.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 139)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:42:28 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 139.
+ 1 APPPATH\Views\Admin\multidelete.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 139)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 09:42:31 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 139.
+ 1 APPPATH\Views\Admin\multidelete.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 139)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 09:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:43:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:44:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 09:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:45:28 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\editproduct.php on line 93.
+ 1 APPPATH\Views\Admin\editproduct.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\editproduct.php', 93)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\editproduct.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/editproduct', [], true)
+ 5 APPPATH\Controllers\ProductController.php(53): view('Admin/editproduct', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ProductController->edit('106')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 10:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:46:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:48:49 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-30 10:48:58 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-30 10:48:59 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-08-30 10:49:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:49:16 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-30 10:49:30 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-30 10:49:31 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-08-30 10:49:31 --> Cannot redeclare App\Controllers\MultiDeleteController::delete()
+in APPPATH\Controllers\MultiDeleteController.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2023-08-30 10:50:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:50:12 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\MultiDeleteController.php(44): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete('104')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 10:50:49 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(432): CodeIgniter\Model->builder()
+ 3 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 4 APPPATH\Controllers\MultiDeleteController.php(44): CodeIgniter\BaseModel->delete([...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete('104')
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 10:53:02 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 940.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(827): CodeIgniter\Database\BaseBuilder->_whereIn('id', '104', false, 'AND ', null)
+ 2 APPPATH\Models\MultideleteModel.php(25): CodeIgniter\Database\BaseBuilder->whereIn('id', '104')
+ 3 APPPATH\Controllers\MultiDeleteController.php(45): App\Models\MultideleteModel->delete_product('104')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete('104')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 10:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:53:09 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 940.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(827): CodeIgniter\Database\BaseBuilder->_whereIn('id', '104', false, 'AND ', null)
+ 2 APPPATH\Models\MultideleteModel.php(25): CodeIgniter\Database\BaseBuilder->whereIn('id', '104')
+ 3 APPPATH\Controllers\MultiDeleteController.php(45): App\Models\MultideleteModel->delete_product('104')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete('104')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 10:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 10:54:23 --> whereIn() expects $values to be of type array or closure
+in SYSTEMPATH\Database\BaseBuilder.php on line 940.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(827): CodeIgniter\Database\BaseBuilder->_whereIn('id', '104', false, 'AND ', null)
+ 2 APPPATH\Models\MultideleteModel.php(26): CodeIgniter\Database\BaseBuilder->whereIn('id', '104')
+ 3 APPPATH\Controllers\MultiDeleteController.php(45): App\Models\MultideleteModel->delete_product('104')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->delete('104')
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 10:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 10:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:08:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:08:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 11:12:40 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(828): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\MultiDeleteController.php(91): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->importCsvToDb()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 11:13:28 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(828): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\MultiDeleteController.php(91): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->importCsvToDb()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 11:13:34 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(828): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\MultiDeleteController.php(91): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->importCsvToDb()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 11:15:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 883.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(828): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\MultiDeleteController.php(91): CodeIgniter\Model->__call('where', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->importCsvToDb()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 11:17:16 --> Class "App\Controllers\ImportExcelModel" not found
+in APPPATH\Controllers\MultiDeleteController.php on line 90.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->importCsvToDb()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 11:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:20:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:20:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:20:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:21:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:22:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 11:22:08 --> Trying to access array offset on value of type null
+in APPPATH\Views\Admin\editproduct.php on line 93.
+ 1 APPPATH\Views\Admin\editproduct.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\editproduct.php', 93)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\editproduct.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/editproduct', [], true)
+ 5 APPPATH\Controllers\ProductController.php(53): view('Admin/editproduct', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ProductController->edit('127')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 11:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:23:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:25:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:27:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:29:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:31:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:38:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:38:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:39:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:42:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:42:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 11:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 11:50:52 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 134.
+ 1 APPPATH\Views\Admin\multidelete.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 134)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 11:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 11:51:04 --> Undefined property: stdClass::$i
+in APPPATH\Views\Admin\multidelete.php on line 134.
+ 1 APPPATH\Views\Admin\multidelete.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$i', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php', 134)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp2\\htdocs\\codeigniter4\\app\\Views\\Admin\\multidelete.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('Admin/multidelete', [], true)
+ 5 APPPATH\Controllers\MultiDeleteController.php(14): view('Admin/multidelete', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\MultiDeleteController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MultiDeleteController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 11:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:00:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:01:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 12:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 12:57:28 --> Class "App\Controllers\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:57:54 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:57:55 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:58:00 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:58:00 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:58:00 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:58:04 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:58:04 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:59:03 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 12:59:37 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 13:00:40 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 13:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:02:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 13:04:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 13:04:33 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 14:38:08 --> Class "PhpOffice\PhpSpreadsheet\Spreadsheet" not found
+in APPPATH\Controllers\ExportExcelController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->Export()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 14:48:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:48:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:52:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 14:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:08:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:09:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-08-30 15:16:01 --> mysqli_sql_exception: Unknown column 'guid' in 'where clause' in C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp2\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `st...', 0)
+#1 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `st...')
+#2 C:\xampp2\htdocs\codeigniter4\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `st...')
+#3 C:\xampp2\htdocs\codeigniter4\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `st...', Array, false)
+#4 C:\xampp2\htdocs\codeigniter4\system\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp2\htdocs\codeigniter4\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp2\htdocs\codeigniter4\app\Controllers\ExportExcelController.php(66): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(932): App\Controllers\ExportExcelController->delete('167')
+#8 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+#9 C:\xampp2\htdocs\codeigniter4\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp2\htdocs\codeigniter4\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-08-30 15:16:01 --> Unknown column 'guid' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `students`
+WHERE `guid` IN (\'167\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `students`
+WHERE `guid` IN (\'167\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `students`
+WHERE `guid` IN (\'167\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `students`
+WHERE `guid` IN :guid:', [...], false)
+ 5 SYSTEMPATH\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 7 APPPATH\Controllers\ExportExcelController.php(66): CodeIgniter\BaseModel->delete([...])
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\ExportExcelController->delete('167')
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ExportExcelController))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 15:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:20:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:22:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:22:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:23:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:24:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:24:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:31:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:32:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:32:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:33:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:39:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:44:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:45:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:47:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:47:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:48:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:48:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:49:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:49:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:50:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:52:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:57:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 15:58:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:10:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:19:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:20:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:21:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:23:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:26:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:26:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:28:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:29:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 16:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:47:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:47:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:47:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 17:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:08:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:10:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 18:11:41 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:12:09 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 18:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-08-30 18:15:09 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:31:28 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:32:30 --> Undefined constant "App\Controllers\BASEPATH"
+in APPPATH\Controllers\PdfController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:32:35 --> Undefined constant "App\Controllers\BASEPATH"
+in APPPATH\Controllers\PdfController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:32:51 --> Class "App\Controllers\DOMPDF" not found
+in APPPATH\Controllers\PdfController.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:00 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:00 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:00 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:01 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:36 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:37 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:33:39 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:39:43 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:39:43 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:39:46 --> Class "Dompdf\Dompdf" not found
+in APPPATH\Controllers\PdfController.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:42:31 --> Class "App\Controllers\DOMPDF" not found
+in APPPATH\Controllers\PdfController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:42:37 --> Class "App\Controllers\DOMPDF" not found
+in APPPATH\Controllers\PdfController.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:42:47 --> Invalid file: "pdf_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pdf_view.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('pdf_view', [], true)
+ 3 APPPATH\Controllers\PdfController.php(15): view('pdf_view')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:42:54 --> Invalid file: "pdf_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pdf_view.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('pdf_view', [], true)
+ 3 APPPATH\Controllers\PdfController.php(15): view('pdf_view')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:43:51 --> Undefined variable $stream
+in APPPATH\Controllers\PdfController.php on line 19.
+ 1 APPPATH\Controllers\PdfController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stream', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Controllers\\PdfController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-30 18:43:57 --> Undefined variable $stream
+in APPPATH\Controllers\PdfController.php on line 19.
+ 1 APPPATH\Controllers\PdfController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $stream', 'C:\\xampp2\\htdocs\\codeigniter4\\app\\Controllers\\PdfController.php', 19)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PdfController->htmlToPDF()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PdfController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-08-30 18:45:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:45:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:46:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:46:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:48:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:49:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-08-30 18:50:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

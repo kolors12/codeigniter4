@@ -1,0 +1,23 @@
+If you Export excel want functionally :
+
+run this below command :
+
+Open cmd run below commend
+
+
+composer require phpoffice/phpspreadsheet --ignore-platform-req=ext-gd
+
+
+
+
+
+
+
+
+
+PDF Create ki  : 
+
+
+Use this Below Command
+
+composer require dompdf/dompdf
